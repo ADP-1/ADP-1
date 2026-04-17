@@ -32,8 +32,6 @@ from building **scalable backend systems** to exploring **cybersecurity tools** 
   <a href="https://leetcode.com/u/_ADP1_"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"></a>
   <a href="https://codeforces.com/profile/adpandeyindia1"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white"></a>
   <a href="https://tryhackme.com/p/addiditya"><img src="https://img.shields.io/badge/-TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
-  <a href="https://twitter.com/_adp7_"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://instagram.com/_adp1_"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 ---
@@ -41,10 +39,10 @@ from building **scalable backend systems** to exploring **cybersecurity tools** 
 ### 🚀 Tech Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,rust,flutter,dart,firebase,supabase,mysql,postgres,git,github,linux,docker,bash,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,flutter,dart,nodejs,firebase,supabase,mysql,postgres,mongodb,git,github,linux,kali,docker,bash,vscode,figma,androidstudio,blender&theme=dark" />
 </p>
 
-**🔒 Security Tools**: Burp Suite • Metasploit • Wireshark • Nmap • Nessus • OpenVAS  
+**🔒 Security Tools**: Burp Suite • Metasploit • Wireshark • Nmap   
 **📚 Frameworks**: OWASP Top 10 • MITRE ATT&CK • Cyber Kill Chain • SIEM • SOC Principles
 
 ---
@@ -58,8 +56,8 @@ from building **scalable backend systems** to exploring **cybersecurity tools** 
 
 #### 🎯 [MarkMe – NFC Attendance System](https://github.com/ADP-1/MarkMe) ⭐ *Patent Pending* ![Private](https://img.shields.io/badge/Status-Private-red?style=flat-square)
 📱 **Flutter + Supabase + Firebase + NFC**  
-Production-grade mobile app with **offline-first architecture**, tested across **4 real-world scenarios**.  
-<sub>✅ 506 attendees @ GeeksforGeeks event • 239 @ Government rally • 196 @ University event</sub>  
+Production-grade mobile app with **offline-first architecture**, achieving a **99% NFC scanning success rate**.  
+<sub>✅ 8000+ student attendees till now • 809 attendees @ GeeksforGeeks event</sub>  
 <sub>📜 **Patent Filed**: Application No. 202511016597 (March 2025)</sub>  
 <sub>📲 **Available on [Indus App Store](https://www.indusappstore.com/apps/tools/markme/com.example.markme/)** - Download now!</sub>
 
@@ -94,6 +92,20 @@ AI-powered EV charging optimization system for intelligent grid management.
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td>
+
+#### 🛡️ [AegisScan – Web Security Scanner](https://github.com/ADP-1/AegisScan) ⭐ *Published Research* ![Public](https://img.shields.io/badge/Status-Public-brightgreen?style=flat-square)
+🐍 **Python + CLI + OWASP**  
+Fast, portable, and efficient open-source command-line security scanner for web applications.  
+<sub>🎯 Comprehensive detection of SQL injection, XSS, CSRF following OWASP Top 10</sub>  
+<sub>📚 **Published Research Paper**: Featured in [ MatJournal](https://matjournals.net/engineering/index.php/JIBDSN/article/view/1533)</sub>
+
+</td>
+</tr>
+</table>
 </div>
 
 ---
@@ -102,7 +114,6 @@ AI-powered EV charging optimization system for intelligent grid management.
 
 | 💡 Project | ⚙️ Stack | 🔗 Link | Status |
 |-------------|-----------|----------|--------|
-| **AegisScan** – Web Security Scanner ⭐ *Published* | Python, CLI, OWASP | [🔗 Repo](https://github.com/ADP-1/AegisScan) | ![Public](https://img.shields.io/badge/Public-brightgreen?style=flat-square) |
 | **LAN Chat Server** – Real-time Messaging | C++, Winsock, Star Topology | [🔗 Repo](https://github.com/ADP-1/chatapp) | ![Private](https://img.shields.io/badge/Private-red?style=flat-square) |
 | **ASEC++** – Password & Wordlist Generator | React, TypeScript, Tailwind CSS | [🔗 Live Demo](https://asecplus.vercel.app) \| [🔗 Repo](https://github.com/ADP-1/ASEC++) | ![Public](https://img.shields.io/badge/Public-brightgreen?style=flat-square) |
 
@@ -140,7 +151,7 @@ I'm actively seeking **full-time roles** in:
 - 🔧 **Software Engineering**
 - 🔒 **Application Security** (interested in learning more)
 
-**📧 Reach out**: adpandeyindia1@gmail.com | **📱 Call**: +91-8130294063
+**📧 Reach out**: adpandeyindia1@gmail.com
 
 ---
 
